@@ -22,7 +22,7 @@ make clean && make
 ```
 ./knock -h www.tcd.ie -p 80 -f output.txt
 ```
-This will send an HTTP GET request to the webpage _[www.tcd.ie](http://www.tcd.ie)_ at the socket listening at port 80 and will record the response to the file _[output.txt]_.
+This will send an HTTP GET request to the webpage _[www.tcd.ie](http://www.tcd.ie)_ at the socket listening at port 80 and will record the response to the file _[output.txt].__
 (Usage)
 ```
 ./knock -?
